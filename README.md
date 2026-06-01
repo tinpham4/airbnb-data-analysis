@@ -13,7 +13,7 @@ Where I got it: [Kaggle — Airbnb Data](https://www.kaggle.com/datasets/sankalp
 Size: 74,111 listings and 29 columns
 Cities: San Francisco, NYC, LA, Boston, Washington DC, Chicago
 
-# 🏠 Airbnb Data Cleaning & EDA Project
+# Airbnb Data Cleaning & EDA Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) 
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) 
@@ -22,7 +22,7 @@ Cities: San Francisco, NYC, LA, Boston, Washington DC, Chicago
 
 ---
 
-## 🛠️ What I used
+# What I used
 
 | Tool | What I used it for |
 |------|---------|
@@ -34,7 +34,7 @@ Cities: San Francisco, NYC, LA, Boston, Washington DC, Chicago
 
 ---
 
-## 🧹 How I cleaned the data
+# How I cleaned the data
 
 Honestly the data was messier than I expected. Here's what I had to fix:
 
@@ -55,7 +55,7 @@ I started with 74,111 rows and ended with 74,110 — barely lost anything!
 # 1. Apartments are basically everywhere
 Two thirds of all listings 66% are apartments. I kind of expected this but not by that much. Houses are second at 22% and everything else is pretty rare.
 
-### 2. 🛏️ Want a whole place? It'll cost you
+### 2. Want a whole place? It'll cost you
 | Room Type | Average Price per Night |
 |-----------|--------------|
 | Entire home/apt | $218.75 |
@@ -64,7 +64,7 @@ Two thirds of all listings 66% are apartments. I kind of expected this but not b
 
 Renting an entire home costs almost 2.5x more than a private room. Makes sense but the gap is bigger than I thought!
 
-### 3. 🌉 SF is more expensive than NYC — I did not expect this
+### 3. SF is more expensive than NYC — I did not expect this
 | City | Average per Night |
 |------|--------------------|
 | San Francisco | $227.37 |
