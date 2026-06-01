@@ -1,9 +1,9 @@
 # Airbnb Data Cleaning & EDA Project
-<img width="1027" height="481" alt="image" src="https://github.com/user-attachments/assets/4a48bfc3-417c-48bb-988e-a5f00faa6a18" />
-<img width="809" height="496" alt="image" src="https://github.com/user-attachments/assets/34685a05-8447-47d7-84c4-c5e7951cb341" />
-<img width="827" height="489" alt="image" src="https://github.com/user-attachments/assets/6334f0f3-3cc3-4aee-bde5-28099b86450a" />
-<img width="1001" height="511" alt="image" src="https://github.com/user-attachments/assets/a63381b4-8c2c-4c0b-b4b1-d5f43f0c02e7" />
-<img width="848" height="502" alt="image" src="https://github.com/user-attachments/assets/afb71974-7a22-4453-8ff3-ecb9de182aef" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4a48bfc3-417c-48bb-988e-a5f00faa6a18" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/34685a05-8447-47d7-84c4-c5e7951cb341" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6334f0f3-3cc3-4aee-bde5-28099b86450a" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a63381b4-8c2c-4c0b-b4b1-d5f43f0c02e7" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/afb71974-7a22-4453-8ff3-ecb9de182aef" />
 
 # Here's what this project is about
 I took a messy Airbnb dataset from Kaggle with 74,111 listings across 6 US cities and tried to clean it up and find some interesting patterns in the data.
